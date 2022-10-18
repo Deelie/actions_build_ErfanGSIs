@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://mirrorbits.lineageos.org/full/chiron/20221013/lineage-18.1-20221013-nightly-chiron-signed.zip
-  ROM_NAME: Generic
+  ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
