@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.46_OTA_0460_all_2206171440_cc5fef1b7a004fb8.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://mirrorbits.lineageos.org/full/chiron/20221013/lineage-18.1-20221013-nightly-chiron-signed.zip
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
