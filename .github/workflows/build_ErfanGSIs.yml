@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrorbits.lineageos.org/full/chiron/20221013/lineage-18.1-20221013-nightly-chiron-signed.zip
-  ROM_NAME: Pixel
+  ROM_URL: https://mirrorbits.lineageos.org/full/gemini/20221009/lineage-18.1-20221009-nightly-gemini-signed.zip
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
